@@ -1,1 +1,2 @@
 Sample txt
+This is new text message. 
